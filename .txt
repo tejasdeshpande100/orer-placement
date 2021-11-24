@@ -1,0 +1,13 @@
+{'0x Protocol', 'CoinEx', 'LBank', 'Gate.io', 'Binance', 'Uniswap (V3)', 'KuCoin', 'Sushiswap', 'XT.COM'}
+{, 'OKEx', 'Gate.io', 'Poloniex', 'Binance', 'FTX', 'Uniswap (V3)', 'KuCoin', 'Huobi Global'}
+{ 'Bitfinex', , 'Gate.io', 'Binance', 'Uniswap (V3)', 'WazirX', 'Bancor Network', 'Bittrex'}
+{'1inch Exchange', , , 'Gate.io', 'Binance', 'Uniswap (V3)', 'Coinbase Exchange', 'KuCoin', 'Huobi Global'}
+{'Gate.io', 'Bithumb', 'Binance', 'KuCoin', 'Huobi Global', 'Bittrex'}
+{'Dcoin', 'Gate.io', 'PancakeSwap', 'Binance', 'BitZ', 'Bibox', 'Hoo', 'ApeSwap', 'Pionex', 'PancakeSwap (V2)', 'MEXC', 'XT.COM'}
+{'BabySwap', , 'Gate.io', 'Poloniex', 'PancakeSwap', 'Binance', 'BitWell', 'KuCoin', 'PancakeSwap (V2)'}
+{, 'Gate.io', 'ZB.COM', 'Poloniex', 'Binance', 'Uniswap (V3)', 'Coinbase Exchange', 'Bancor Network'}
+{'CoinEx', , 'OKEx', 'Gate.io', 'Binance', 'Coinlist Pro', 'WazirX', 
+{, 'Gate.io', 'Raydium', 'Binance', 'FTX', 'Serum DEX', 'WazirX', 'Sushiswap'}
+{'OKEx', 'Gate.io', 'Binance', 'Huobi Global', 'Kraken'}
+{'Gate.io', 'Poloniex', 'Binance', 'FTX', 'Coinbase Exchange', 'KuCoin', 'Huobi Global'}
+{'Bitglobal', 'Uniswap (V2)', 'Gate.io', 'Binance', 'Indodax', 'Uniswap (V3)', 'Coinbase Exchange', 'KuCoin', 'Bancor Network', 'Bittrex', 'Crypto.com Exchange'}
